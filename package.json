@@ -1,0 +1,54 @@
+{
+    "name": "passport-oauth-wrap",
+    "title": "Passport OAuth WRAP Strategy",
+    "description": "OAuth WRAP authentication strategy for Passport and Node.js.",
+    "homepage": "https://github.com/rabchev/passport-oauth-wrap",
+    "author": "Boyan Rabchev <boyan@rabchev.comm>",
+    "contributors": [
+        {
+            "name": "Boyan Rabchev",
+            "email": "boyan@rabchev.comm"
+        }
+    ],
+    "version": "0.0.1",
+    "main": "./lib",
+    "dependencies": {
+        "passport-strategy": "1.x.x"
+    },
+    "devDependencies": {
+        "mocha": "*"
+    },
+    "scripts": {
+        "test": "node test"
+    },
+    "keywords": [
+        "passport",
+        "auth",
+        "authentication",
+        "authz",
+        "authorization",
+        "http",
+        "swt",
+        "simple",
+        "web",
+        "token",
+        "oauth",
+        "wrap"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rabchev/passport-oauth-wrap.git"
+    },
+    "bugs": {
+        "email": "boyan@rabchev.comm",
+        "url": "https://github.com/rabchev/passport-oauth-wrap/issues"
+    },
+    "license": {
+        "type": "MIT",
+        "url": "http://github.com/rabchev/passport-oauth-wrap/blob/master/LICENSE"
+    },
+    "engines": {
+        "node": ">= 0.4.0"
+    }
+}
+
