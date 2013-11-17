@@ -20,7 +20,7 @@
         "chai": "*"
     },
     "scripts": {
-        "test": "node test"
+        "test": "mocha"
     },
     "keywords": [
         "passport",
