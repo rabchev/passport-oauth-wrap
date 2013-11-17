@@ -1,0 +1,15 @@
+{
+    "name": "passport-oauth-wrap-example",
+    "title": "OAuth WRAP Strategy Example",
+    "description": "Usage Example of OAuth WRAP Strategy for Passport.",
+    "homepage": "https://github.com/rabchev/passport-oauth-wrap",
+    "version": "0.0.1",
+    "main": "index",
+    "dependencies": {
+        "lodash": "*",
+        "express": "*",
+        "passport": "*",
+        "connect-ensure-login": "*",
+        "passport-oauth-wrap": "*"
+    }
+}

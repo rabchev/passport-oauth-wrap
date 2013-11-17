@@ -16,7 +16,8 @@
         "passport": "*"
     },
     "devDependencies": {
-        "mocha": "*"
+        "mocha": "*",
+        "chai": "*"
     },
     "scripts": {
         "test": "node test"
